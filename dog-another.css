@@ -1,0 +1,18 @@
+body {
+    background-color:#c7ecee;
+}
+.head {
+    color:#130f40;
+    font-family: cursive;
+    text-align: center;
+}
+.dog-another {
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 3px;
+    transition: 0.6s;
+}
+.dog-another:hover {
+    transform: scale(1.1);
+}
